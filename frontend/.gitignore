@@ -1,0 +1,19 @@
+# General
+node_modules/
+build/
+dist/
+coverage/
+*.log
+.DS_Store
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Build
+/build

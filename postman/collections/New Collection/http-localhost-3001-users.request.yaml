@@ -1,0 +1,9 @@
+$kind: http-request
+name: http://localhost:3001/users
+url: http://localhost:3001/users
+method: GET
+auth:
+  type: bearer
+  credentials:
+    token: "'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2OTM1OTcwMC0zMDk1LTQ1YTItOWUyMS00ZWM5YzU3NjE1NzgiLCJlbWFpbCI6ImFkbWluQGV4YW1wbGUuY29tIiwicm9sZSI6IkFETUlOIiwiaWF0IjoxNzgwNTg3MTQxLCJleHAiOjE3ODA2NzM1NDF9.u_zIBmmEk03B0Ei2ESIxoYaNNJzzl3oz6RkYIPYuSF4'"
+order: 1780599837066
